@@ -1,2 +1,3 @@
-/workspaces/spring-app/packages/spring-products-service/src/test/java/com/example/springapp/service/ProductServiceTest.java
-/workspaces/spring-app/packages/spring-products-service/src/test/java/com/example/springapp/controller/ProductControllerTest.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/test/java/com/example/springapp/controller/ProductControllerTest.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/test/java/com/example/springapp/repository/ProductRepositoryTest.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/test/java/com/example/springapp/service/ProductServiceTest.java

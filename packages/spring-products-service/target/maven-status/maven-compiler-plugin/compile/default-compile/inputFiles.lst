@@ -1,8 +1,8 @@
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/controller/ProductController.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/model/Product.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/dto/ProductDto.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/DemoApplication.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/repository/ProductRepository.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/service/ProductService.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/exception/NotFoundException.java
-/workspaces/spring-app/packages/spring-products-service/src/main/java/com/example/springapp/exception/GlobalExceptionHandler.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/model/Product.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/exception/GlobalExceptionHandler.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/controller/ProductController.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/repository/ProductRepository.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/service/ProductService.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/dto/ProductDto.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/DemoApplication.java
+/workspaces/migration-blue-print/packages/spring-products-service/src/main/java/com/example/springapp/exception/NotFoundException.java
